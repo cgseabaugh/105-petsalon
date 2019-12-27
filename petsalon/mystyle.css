@@ -1,0 +1,49 @@
+.header-in{
+    background: rgb(43, 82, 49);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+}
+
+.main-in{
+    height: 30rem;
+}
+
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+.img-logo{
+    width: 30%;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.info{
+    font-size: 1rem;
+    color: black;
+}
+
+h2{
+    color: red;
+}
+
+.footer-in{
+    font-size: 1rem;
+    color: white;
+    background: rgb(43, 82, 49);
+    height: 100px;
+    border-top: 1px solid black;
+
+}
+
+.found{
+    background: rgb(54, 94, 54);
+}
